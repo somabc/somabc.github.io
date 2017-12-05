@@ -6,7 +6,7 @@ $(function() {
     siteName: 'Bryan Cochrane',
 
     // Tagline for your site
-    siteTagline: 'London',
+    siteTagline: 'Just do IT',
 
     // Email address
     siteEmail: 'bryan.cochrane@gmail.com',
